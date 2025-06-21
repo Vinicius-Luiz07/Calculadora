@@ -4,7 +4,6 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner ler = new Scanner(System.in);
         int n1, n2, resultado;
-        String operadores [] = {"+", "-", "*", "/"};
 
         System.out.println("Digite um numero: " );
         n1 = ler.nextInt();
